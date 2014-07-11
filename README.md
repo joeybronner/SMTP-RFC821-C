@@ -27,24 +27,26 @@ Cas de tests
         mdp   : Azerty95  
         smtp  : smtp.gmail.com
         port  : 587
-	
+
 * YAHOO
-		email : projet_linux_esgi@yahoo.fr
-		mdp   : Azerty95
-		smtp  : smtp.mail.yahoo.com
-		port  : 587
-		
+
+        email : projet_linux_esgi@yahoo.fr
+        mdp   : Azerty95  
+        smtp  : smtp.mail.yahoo.com
+        port  : 587
 
 * YOPMAIL
-		email : cequonveut@yomail.com
-		mdp   : ?
-		smtp  : smtp.yopmail.com
-		port  : 25
+
+        email : cequonveut@yopmail.com
+        mdp   : Aucun  
+        smtp  : smtp.yopmail.com
+        port  : 25
 
 * HOTMAIL
-		email : projet.linux.esgi@hotmail.com
-		mdp   : Azerty95
-		smtp  : smtp.live.com  
+
+        email : projet.linux.esgi@hotmzil.com
+        mdp   : Azerty95  
+        smtp  : smtp.live.com
         port  : 587
 
 Running
